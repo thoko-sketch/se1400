@@ -18,7 +18,7 @@ body
  {
     grid-column: 2 / 8;
     grid-row: 1;
-    background-color: rgba(135,147,255,0.3);
+    background-color: rgba(135,147,255,0.5);
     padding: 0.5rem;
     height: 50px
  }
@@ -27,7 +27,7 @@ nav
 {
     grid-column: 1 / -1;
     grid-row: 2;
-    background-color: rgba(240,270,177,0.3);
+    background-color: rgba(255, 229, 97, 0.5);
     padding: 0.5rem;
     height: 30px;
 }
@@ -36,7 +36,7 @@ main
 {
     grid-column: 2 / 8;
     grid-row: 3;
-    background-color: rgba(255,152,219,0.3);
+    background-color: rgba(255,152,219,0.5);
     height: 500px;
     padding: 0.5rem;
 }
@@ -44,7 +44,7 @@ main
 footer
 {
     grid-column: 1 / -1;
-    background-color: rgba(240,270,177,0.3);
+    background-color: rgba(255, 229, 97, 0.5);
     padding: 0.5rem;
     height: 30px;
 }
